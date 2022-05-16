@@ -1,0 +1,13 @@
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.personalInfo{
+    display: flex;
+    gap: 50px;
+}
+
+.landscape {
+    width: 100%;
+}

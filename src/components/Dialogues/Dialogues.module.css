@@ -1,0 +1,13 @@
+.dialoguesPage{
+    display: flex;
+    gap: 50px;
+}
+
+.dialogues{
+    display: flex;
+    flex-direction: column;
+}
+
+.active{
+    color: rgb(0, 25, 252);
+}
